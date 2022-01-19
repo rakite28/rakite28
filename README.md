@@ -10,10 +10,7 @@
 
 **Note: This is a short introduction and doesn't contain all my skills, experience and many more fun facts😂.For more details contact me.**
 
-<!--
-**rakite28/rakite28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakite28&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakite28&layout=compact&hide=tsql&show_icons=true" />
