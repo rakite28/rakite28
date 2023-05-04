@@ -13,5 +13,6 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakite28&show_icons=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakite28&layout=compact&hide=tsql&show_icons=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakite28&count_private=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakite28&layout=compact&show_icons=true&hide=tsql" />
